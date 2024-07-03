@@ -1,2 +1,2 @@
-# SLIMPARPROQIP
-SlimPAR Pro Q IP
+# SlimPAR Pro Q IP
+
